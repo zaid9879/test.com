@@ -1,0 +1,13 @@
+.k {
+    margin-left: 600px;
+}
+
+.total-price {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 00px;
+}
+
+.total-price table {
+    width: 1900px;
+}
